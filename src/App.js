@@ -1,4 +1,4 @@
-import Index from "./components/routes/Index";
+import Index from "./routes/Index";
 
 function App() {
   return (
