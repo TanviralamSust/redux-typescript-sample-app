@@ -6,15 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="530aa0dd-16ff-4ee4-95f2-7a36fb5b202e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/books/AddBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/books/AddBook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/books/Books.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/books/Books.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/books/UpdateBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/books/UpdateBook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/routes/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/postSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/postSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +66,7 @@
       <workItem from="1665943629201" duration="1220000" />
       <workItem from="1666109772499" duration="5210000" />
       <workItem from="1666115448870" duration="5007000" />
-      <workItem from="1666286439663" duration="9908000" />
+      <workItem from="1666286439663" duration="15979000" />
     </task>
     <servers />
   </component>
